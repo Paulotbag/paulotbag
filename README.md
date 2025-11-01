@@ -1,65 +1,125 @@
-Hi there! 👋 I'm Paulo Granjeiro
-🚀 About Me
-I'm a Software Developer with a background in Mechanical Engineering, bringing a unique perspective that combines technical problem-solving with software development expertise. Currently building projects for the local community and actively seeking new opportunities.
-
-🎓 Bachelor's Degree in Mechanical Engineering
-💻 Diploma in Software Programming
-🌱 Passionate about continuous learning and team leadership
-📊 Strong interest in project management and analytics
-💼 Professional Highlights
-🏆 Successfully delivered a stagnant web development project at ORGFITECH INC., coordinating with team members to create, test, and deploy a complete website solution.
-
-🛠️ Tech Stack
-Languages I Love
-[Afficher l'image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-Technologies & Tools
-[Afficher l'image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[Afficher l'image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-DevOps & Cloud
-[Afficher l'image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
-
-Engineering & Analytics
-[Afficher l'image](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-[Afficher l'image](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-[Afficher l'image](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-🎯 Areas of Interest
-🤖 Artificial Intelligence - Exploring AI applications and machine learning
-📱 Mobile Development - Creating cross-platform applications with Flutter
-🔧 DevOps - Automating and optimizing development workflows
-⚙️ Backend Development - Building robust and scalable server-side solutions
-👥 Team Management - Leading teams, project planning, and performance tracking
-📊 GitHub Stats
 <div align="center">
-[Afficher l'image](https://github-readme-stats.vercel.app/api?username=Paulotbag&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[Afficher l'image](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulotbag&layout=compact&theme=radical&hide_border=true)
+# Hi there 👋, I'm Paulo Granjeiro
 
-[Afficher l'image](https://github-readme-streak-stats.herokuapp.com/?user=Paulotbag&theme=radical&hide_border=true)
+### Software Developer | Backend & Cloud Developer
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorggranjeiro/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulotbag2@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Paulotbag&color=blueviolet&style=flat-square)
 
 </div>
-📫 Let's Connect!
-I'm always open to interesting conversations and collaboration opportunities!
 
-[Afficher l'image](https://www.linkedin.com/in/paulorggranjeiro/)
-[mailto:paulotbag2@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[[Afficher l'image](https://github.com/Paulotbag)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Software Developer** with a background in **Mechanical Engineering**, bringing a unique perspective that combines technical problem-solving with software development expertise.
+
+I specialize in **Python**, **Java**, **TypeScript**, and **Flutter**, and have a strong background in infrastructure automation with **Terraform**, **Docker**, and **AWS**.
+
+- 🚀 Currently building projects for the local community and actively seeking new opportunities
+- ☁️ Passionate about backend APIs, cloud infrastructure, and automation
+- 💡 Always exploring better practices in backend development, AI/ML, mobile development, and DevOps
+- ⚙️ Tech Stack: Python, Java, TypeScript, Flutter, Docker, Terraform, AWS, PostgreSQL
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</p>
 
 <div align="center">
-💡 "Combining engineering precision with software innovation"
-[Afficher l'image](https://komarev.com/ghpvc/?username=Paulotbag&color=blueviolet&style=flat-square)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulotbag&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 💼 Tech Summary
+
+**Backend:** Python, Java, C#, ASP.NET, PHP, Node.js
+
+**Frontend:** TypeScript, JavaScript, HTML, CSS, Flutter
+
+**DevOps / Cloud:** Terraform, Docker, AWS, Power Automate
+
+**Engineering & Analytics:** MATLAB, Power BI, Excel
+
+**Databases:** PostgreSQL, MySQL
+
+---
+
+## 🎯 Areas of Interest
+
+🤖 **Artificial Intelligence** - Exploring AI applications and machine learning
+
+📱 **Mobile Development** - Creating cross-platform applications with Flutter
+
+🔧 **DevOps** - Automating and optimizing development workflows
+
+⚙️ **Backend Development** - Building robust and scalable server-side solutions
+
+👥 **Team Management** - Leading teams, project planning, and performance tracking
+
+📊 **GitHub Stats**
+
+---
+
+## 🏆 Professional Highlights
+
+🎓 **Bachelor's Degree in Mechanical Engineering**
+
+💻 **Diploma in Software Programming**
+
+⭐ **Successfully delivered a stagnant web development project** at ORGFITECH INC., coordinating with team members to create, test, and deploy a complete website solution.
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulotbag&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D9FF&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paulotbag&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulorggranjeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:paulotbag2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Paulotbag"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Combining engineering precision with software innovation"*
 
 </div>
